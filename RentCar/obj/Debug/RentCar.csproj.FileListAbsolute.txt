@@ -1,0 +1,58 @@
+D:\1 FINAL\New folder\RentCar\RentCar\RentCar\bin\Debug\RentCar.exe.config
+D:\1 FINAL\New folder\RentCar\RentCar\RentCar\bin\Debug\RentCar.exe
+D:\1 FINAL\New folder\RentCar\RentCar\RentCar\bin\Debug\RentCar.pdb
+D:\1 FINAL\New folder\RentCar\RentCar\RentCar\obj\Debug\RentCar.csproj.AssemblyReference.cache
+D:\1 FINAL\New folder\RentCar\RentCar\RentCar\obj\Debug\RentCar.csproj.SuggestedBindingRedirects.cache
+D:\1 FINAL\New folder\RentCar\RentCar\RentCar\obj\Debug\RentCar.Data_Driver.resources
+D:\1 FINAL\New folder\RentCar\RentCar\RentCar\obj\Debug\RentCar.Data_Mobil.resources
+D:\1 FINAL\New folder\RentCar\RentCar\RentCar\obj\Debug\RentCar.Data_Pelanggan.resources
+D:\1 FINAL\New folder\RentCar\RentCar\RentCar\obj\Debug\RentCar.Data_Sewa.resources
+D:\1 FINAL\New folder\RentCar\RentCar\RentCar\obj\Debug\RentCar.Login.resources
+D:\1 FINAL\New folder\RentCar\RentCar\RentCar\obj\Debug\RentCar.Home.resources
+D:\1 FINAL\New folder\RentCar\RentCar\RentCar\obj\Debug\RentCar.Properties.Resources.resources
+D:\1 FINAL\New folder\RentCar\RentCar\RentCar\obj\Debug\RentCar.csproj.GenerateResource.cache
+D:\1 FINAL\New folder\RentCar\RentCar\RentCar\obj\Debug\RentCar.csproj.CoreCompileInputs.cache
+D:\1 FINAL\New folder\RentCar\RentCar\RentCar\obj\Debug\RentCar.exe
+D:\1 FINAL\New folder\RentCar\RentCar\RentCar\obj\Debug\RentCar.pdb
+E:\TUGAS KULIAH\RentCar\RentCar\bin\Debug\x86\sqlite3.dll
+E:\TUGAS KULIAH\RentCar\RentCar\bin\Debug\x64\sqlite3.dll
+E:\TUGAS KULIAH\RentCar\RentCar\bin\Debug\RentCar.exe.config
+E:\TUGAS KULIAH\RentCar\RentCar\bin\Debug\RentCar.exe
+E:\TUGAS KULIAH\RentCar\RentCar\bin\Debug\RentCar.pdb
+E:\TUGAS KULIAH\RentCar\RentCar\bin\Debug\System.Data.SQLite.dll
+E:\TUGAS KULIAH\RentCar\RentCar\bin\Debug\System.Data.SQLite.xml
+E:\TUGAS KULIAH\RentCar\RentCar\obj\Debug\RentCar.csproj.AssemblyReference.cache
+E:\TUGAS KULIAH\RentCar\RentCar\obj\Debug\RentCar.csproj.SuggestedBindingRedirects.cache
+E:\TUGAS KULIAH\RentCar\RentCar\obj\Debug\RentCar.Data_Driver.resources
+E:\TUGAS KULIAH\RentCar\RentCar\obj\Debug\RentCar.Data_Mobil.resources
+E:\TUGAS KULIAH\RentCar\RentCar\obj\Debug\RentCar.Data_Pelanggan.resources
+E:\TUGAS KULIAH\RentCar\RentCar\obj\Debug\RentCar.Data_Sewa.resources
+E:\TUGAS KULIAH\RentCar\RentCar\obj\Debug\RentCar.Login.resources
+E:\TUGAS KULIAH\RentCar\RentCar\obj\Debug\RentCar.Home.resources
+E:\TUGAS KULIAH\RentCar\RentCar\obj\Debug\RentCar.Properties.Resources.resources
+E:\TUGAS KULIAH\RentCar\RentCar\obj\Debug\RentCar.csproj.GenerateResource.cache
+E:\TUGAS KULIAH\RentCar\RentCar\obj\Debug\RentCar.csproj.CoreCompileInputs.cache
+E:\TUGAS KULIAH\RentCar\RentCar\obj\Debug\RentCar.csproj.CopyComplete
+E:\TUGAS KULIAH\RentCar\RentCar\obj\Debug\RentCar.exe
+E:\TUGAS KULIAH\RentCar\RentCar\obj\Debug\RentCar.pdb
+D:\22.11.4696\RentalCar\RentCar\bin\Debug\x86\sqlite3.dll
+D:\22.11.4696\RentalCar\RentCar\bin\Debug\x64\sqlite3.dll
+D:\22.11.4696\RentalCar\RentCar\bin\Debug\RentCar.exe.config
+D:\22.11.4696\RentalCar\RentCar\bin\Debug\RentCar.exe
+D:\22.11.4696\RentalCar\RentCar\bin\Debug\RentCar.pdb
+D:\22.11.4696\RentalCar\RentCar\bin\Debug\System.Data.SQLite.dll
+D:\22.11.4696\RentalCar\RentCar\bin\Debug\System.Data.SQLite.xml
+D:\22.11.4696\RentalCar\RentCar\obj\Debug\RentCar.csproj.AssemblyReference.cache
+D:\22.11.4696\RentalCar\RentCar\obj\Debug\RentCar.csproj.SuggestedBindingRedirects.cache
+D:\22.11.4696\RentalCar\RentCar\obj\Debug\RentCar.Data_Driver.resources
+D:\22.11.4696\RentalCar\RentCar\obj\Debug\RentCar.Data_Mobil.resources
+D:\22.11.4696\RentalCar\RentCar\obj\Debug\RentCar.Data_Pelanggan.resources
+D:\22.11.4696\RentalCar\RentCar\obj\Debug\RentCar.Data_Sewa.resources
+D:\22.11.4696\RentalCar\RentCar\obj\Debug\RentCar.Login.resources
+D:\22.11.4696\RentalCar\RentCar\obj\Debug\RentCar.Home.resources
+D:\22.11.4696\RentalCar\RentCar\obj\Debug\RentCar.Properties.Resources.resources
+D:\22.11.4696\RentalCar\RentCar\obj\Debug\RentCar.csproj.GenerateResource.cache
+D:\22.11.4696\RentalCar\RentCar\obj\Debug\RentCar.csproj.CoreCompileInputs.cache
+D:\22.11.4696\RentalCar\RentCar\obj\Debug\RentCar.csproj.CopyComplete
+D:\22.11.4696\RentalCar\RentCar\obj\Debug\RentCar.exe
+D:\22.11.4696\RentalCar\RentCar\obj\Debug\RentCar.pdb
